@@ -5,18 +5,18 @@
   "version": "1.0.0",
   "homepage": "",
   "author": {
-    "name": "Kushagra Gour",
-    "email": "chinchang457@gmail.com",
-    "url": "http://kushagragour.in"
+    "name": "Ashish Singh",
+    "email": "ashishsingh21798@gmail.com",
+    "url": "http://ashishsingh21798.github.io"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/chinchang/cssconf-asia"
+    "url": "https://github.com/ashishsingh21798/cssconf-asia"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/chinchang/cssconf-asia/blob/master/LICENSE-MIT"
+      "url": "https://github.com/ashishsingh21798/cssconf-asia/blob/master/LICENSE-MIT"
     }
   ],
   "keywords": [],
