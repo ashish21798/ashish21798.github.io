@@ -1,10 +1,10 @@
 safe: true
 lsi: false
 
-root_url: http://kushagragour.in
+root_url: http://ashish21798.github.io
 author:
-  name: Kushagra Gour
-title: Kushagra Gour- Creativity freak!
+  name: Ashish Singh
+title: Ashish Singh- Creativity freak!
 permalink: /blog/:year/:month/:title/
 highlighter: rouge
 
